@@ -15,7 +15,7 @@ Datetime & Time Modules – Time calculations
 
 📦 Installation
 1. Clone the repository:
-git clone https://github.com/your-username/otp-email-verification.git
+git clone 
 cd otp-email-verification
 2. Install dependencies:
 pip install -r requirements.txt
