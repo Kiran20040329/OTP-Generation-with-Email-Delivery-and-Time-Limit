@@ -15,7 +15,7 @@ Datetime & Time Modules – Time calculations
 
 📦 Installation
 1. Clone the repository:
-git clone 
+git clone https://github.com/Kiran20040329/OTP-Generation-with-Email-Delivery-and-Time-Limit.git
 cd otp-email-verification
 2. Install dependencies:
 pip install -r requirements.txt
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 1. Enable App Passwords in Gmail:
 Enable 2-Step Verification.
 Generate an App password from your Google account.
-2. Run the script: 
+2. Run the script:
 python otp_generator.py
 3. Input your OTP:
 Check your email for the OTP.
