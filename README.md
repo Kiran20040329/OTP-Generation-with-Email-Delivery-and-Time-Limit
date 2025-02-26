@@ -24,7 +24,7 @@ pip install -r requirements.txt
 1. Enable App Passwords in Gmail:
 Enable 2-Step Verification.
 Generate an App password from your Google account.
-2. Run the script:
+2. Run the script: 
 python otp_generator.py
 3. Input your OTP:
 Check your email for the OTP.
